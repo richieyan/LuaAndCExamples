@@ -1,5 +1,6 @@
 #### Examples that interaction lua and c
 All test code in [lua.c](https://github.com/richieyan/LuaAndCExamples/blob/master/src/lua.c) file
+# please import project on macos, not support windows
 
 #### Lua interact with c
 1. run lua file in c
